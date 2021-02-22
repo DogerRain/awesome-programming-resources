@@ -17,20 +17,32 @@
 
 
 
-
-
-
-
 ## 电子书
 
 ### Java
 
 - [《Head First Java 》](https://wws.lanzous.com/i3SuHlbc16b)
 
+### MySQL
+
+- [《高性能 MySQL》](https://wws.lanzous.com/iLznWkw1egd)
+
+### 计算机网络
+
+- [《 计算机网络-自顶向下方法(中文第六版)》](https://wws.lanzous.com/iN5G4kw1q0j)
+- [《 图解TCP IP第5版》](https://wws.lanzous.com/i9F5jkw1ukd)
+- [《 图解 HTTP》](https://wws.lanzous.com/iKEobkw1syf)
+- [《HTTP 权威指南》](https://wws.lanzous.com/iuaJRlbc93g)
+
 ### Linux
 
 - [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 - [Linux命令搜索](https://wangchujiang.com/linux-command/)
+
+### Redis
+
+- [《Redis设计与实现》](https://wws.lanzous.com/iwWDpkw0y7i)
+- [《Redis 实战》](https://wws.lanzous.com/izQXDkw0v7a)
 
 ### Git
 
@@ -43,6 +55,19 @@
 ### 程序人生
 
 - [《软技能-代码之外的生存指南》](https://wws.lanzous.com/igm9okw1r2h)
+
+### 代码以外
+
+- [硅谷之谜《浪潮之巅》](https://wws.lanzous.com/io5Ipkw1jyb)
+- [《人月神话》](https://wws.lanzous.com/igl0ckw1uqj)
+
+### 代码规范
+
+- [阿里巴巴Java开发手册(泰山版)](https://wws.lanzous.com/is42xm0rxtg)
+- [《重构改善既有代码设计》](https://wws.lanzous.com/ivrEWlbbv8h)
+- [《代码整洁之道》](https://wws.lanzous.com/iaO5Bkw13ub)
+
+
 
 ## 算法
 
