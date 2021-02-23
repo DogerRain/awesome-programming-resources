@@ -73,11 +73,27 @@
 
 - [力扣加加](https://github.com/azl397985856/leetcode)
 
-  西湖区最好的算法，也是我见过整理最全的算法题解，但是题目之多常人无法刷完，学习建议食用该版本；求职速成建议下面一个。
+  我见过整理最全的算法题解，但是题目之多常人无法刷完，学习建议食用该版本。
+
+  **实现语言：Java、Python、JavaScript**
+
+- [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
+
+  追求`runtime beats 100%` 的LeetCode 题解，600+ 题目。
+
+  **实现语言：Go**
 
 - [LeetcodeTop](https://github.com/afatcoder/LeetcodeTop)
 
   汇总互联网公司技术岗考察leetcode题目的热度🔥
+
+  **实现语言：Java**
+
+- [LeetCode 101](https://github.com/changgyhub/leetcode_101)
+
+  算法刷题教科书，题量少而精细
+
+  **实现语言：C++**
 
 
 
@@ -113,5 +129,5 @@
 
 - [AwesomeJob](https://github.com/Dikea/AwesomeJob)
 
-  互联网大厂内推职位
+  互联网大厂内推职位网站
 
