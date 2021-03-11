@@ -3,6 +3,10 @@
 
 涵盖：Java求职面试、书籍、计算机网络、操作系统、架构、算法、前端开发、 Redis、Mysql、Nginx、ZK、MQ、深度学习等。
 
+如果有推荐的教程或者资源，欢迎补充。
+
+随着时间的推移，知识点难免有出入和错误，欢迎各位提[Issues](https://github.com/DogerRain/awesome-programming-resources/issues)
+
 
 
 ## Java
@@ -17,7 +21,7 @@
 
 
 
-## 电子书
+## 电子书  || 教程
 
 ### Java
 
@@ -44,22 +48,25 @@
 - [《Redis设计与实现》](https://wws.lanzous.com/iwWDpkw0y7i)
 - [《Redis 实战》](https://wws.lanzous.com/izQXDkw0v7a)
 
-### Git
+### Git && Github
 
 - [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600/)
+
+  廖大yyds，最受欢迎的git使用教程之一
+
+- [github漫游指南](https://github.com/phodal/github)
+
+  github的使用教程
 
 ### 设计模式
 
 - [《Head First 设计模式》](https://wws.lanzous.com/iRG49lbc3yb)
 
-### 程序人生
-
-- [《软技能-代码之外的生存指南》](https://wws.lanzous.com/igm9okw1r2h)
-
 ### 代码以外
 
 - [硅谷之谜《浪潮之巅》](https://wws.lanzous.com/io5Ipkw1jyb)
 - [《人月神话》](https://wws.lanzous.com/igl0ckw1uqj)
+- [《软技能-代码之外的生存指南》](https://wws.lanzous.com/igm9okw1r2h)
 
 ### 代码规范
 
@@ -125,8 +132,12 @@
 
 
 
-## 岗位推荐
+## 求职 
 
 - [AwesomeJob](https://github.com/Dikea/AwesomeJob)
 
   互联网大厂内推职位网站
+  
+- [996.ICU](https://github.com/996icu/996.ICU)
+
+  互联网 `加班&不加班` 企业名单，求职前可参考
