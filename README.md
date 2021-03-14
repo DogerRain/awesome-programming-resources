@@ -27,6 +27,10 @@
 
 - [《Head First Java 》](https://wws.lanzous.com/i3SuHlbc16b)
 
+### Python
+
+[《利用Python进行数据分析 2017 第二版》](https://github.com/BrambleXu/pydata-notebook)
+
 ### MySQL
 
 - [《高性能 MySQL》](https://wws.lanzous.com/iLznWkw1egd)
