@@ -11,7 +11,8 @@
 
 ## Java
 
-
+- [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
+- [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
 ## Java面试题
 
