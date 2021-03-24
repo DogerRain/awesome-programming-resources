@@ -9,6 +9,10 @@
 
 
 
+## 前后端学习路线
+
+- [143k的编程指南](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
+
 ## Java
 
 - [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
@@ -85,7 +89,9 @@
 - [《重构改善既有代码设计》](https://wws.lanzous.com/ivrEWlbbv8h)
 - [《代码整洁之道》](https://wws.lanzous.com/iaO5Bkw13ub)
 
+### 其他书籍汇总：
 
+- https://github.com/itwanger/JavaBooks
 
 ## 算法
 
