@@ -115,7 +115,7 @@
 
 - [LeetCode 101](https://github.com/changgyhub/leetcode_101)
 
-  算法刷题教科书，题量少而精细
+  算法刷题教科书，题量少而精细，
 
   **实现语言：C++**
 
