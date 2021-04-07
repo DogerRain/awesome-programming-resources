@@ -11,12 +11,23 @@
 
 ## 前后端学习路线
 
-- [143k的编程指南](https://github.com/kamranahmedse/developer-roadmap/tree/master/translations/chinese)
+- [143k star 的编程指南](https://github.com/kamranahmedse/developer-roadmap)
+
+  国外超级火的成为web开发人员的路线图
 
 ## Java
 
 - [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
+
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
+
+- 一个面向Java小白从入门到找到一份实习需要掌握的核心技术
+
+  [LearnJavaToFindAJob](https://github.com/DogerRain/LearnJavaToFindAJob) 
+
+- 一个收集计算机优质资源的合集
+
+  [awesome-programming-resources](https://github.com/DogerRain/awesome-programming-resources)
 
 ## Java面试题
 
@@ -146,8 +157,14 @@
 - [REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 
   清华大学计算机系课程。受浙江大学影响开源的课程，包括大一到大四的近百门课程，计算机课程为主。
+  
+- 线性代数
 
+  清华线代教材，线性代数学习的新方法，评分极高。
 
+  B站版（中文字幕）：https://www.bilibili.com/video/BV1Ki4y147Kh?from=search&seid=12637860342518514006
+
+  原版：https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm
 
 ## 求职 
 
