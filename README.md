@@ -5,7 +5,7 @@
 
 如果有推荐的教程或者资源，欢迎补充。
 
-随着时间的推移，知识点难免有出入和错误，欢迎各位提[Issues](https://github.com/DogerRain/awesome-programming-resources/issues)
+随着时间的推移，知识点、链接难免有出入和错误，欢迎各位提[Issues](https://github.com/DogerRain/awesome-programming-resources/issues)
 
 
 
@@ -15,23 +15,22 @@
 
   国外超级火的成为web开发人员的路线图
 
-## Java
+## Java学习教程
 
 - [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
 
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 
-- 一个面向Java小白从入门到找到一份实习需要掌握的核心技术
+-  [PureJavaCoderRoad](https://github.com/DogerRain/PureJavaCoderRoad)  Java小白学些什么才能找到一份实习工作？
 
-  [LearnJavaToFindAJob](https://github.com/DogerRain/LearnJavaToFindAJob) 
 
-- 一个收集计算机优质资源的合集
+## Java学习视频
 
-  [awesome-programming-resources](https://github.com/DogerRain/awesome-programming-resources)
+- 
 
 ## Java面试题
 
-
+- [LearnJavaToFindAJob](https://github.com/DogerRain/LearnJavaToFindAJob)  互联网最喜欢问的面试题总结（Java八股文+算法+操作系统+计算机网络+项目+高并发+MySQL+中间件 等等）
 
 ## MySQL
 
@@ -45,9 +44,12 @@
 
 ## 电子书  || 教程
 
-### Java
+### Java相关电子书
 
 - [《Head First Java 》](https://wws.lanzous.com/i3SuHlbc16b)
+- [《深入浅出Java多线程》](http://concurrent.redspider.group/RedSpider.html) RedSpider技术社区编写
+- [《Spring 的官方文档》](https://spring.io/projects/spring-framework#learn)
+- [《Spring Boot 的官方文档》](https://spring.io/projects/spring-boot#learn)
 
 ### Python
 
@@ -77,13 +79,20 @@
 ### Docker
 
 - [https://docker-curriculum.com/](https://docker-curriculum.com/)
-- [Docker — 从入门到实践](https://github.com/yeasy/docker_practice)
+- [《Docker — 从入门到实践》](https://yeasy.gitbook.io/docker_practice/)
 
 ### Git && Github
 
 - [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600/)
 
   廖大yyds，最受欢迎的git使用教程之一
+
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching)
+  通过可视化动画效果来帮助开发人员理解Git命令
+
+- [《Git 官方文档教程》](https://git-scm.com/book/zh/v2)
+
+- [《Pro Git》](https://www.progit.cn/)
 
 - [github漫游指南](https://github.com/phodal/github)
 
@@ -101,7 +110,7 @@
 
 ### 代码规范
 
-- [阿里巴巴Java开发手册(泰山版)](https://wws.lanzous.com/is42xm0rxtg)
+- [《阿里巴巴Java开发手册》(泰山版)](https://wws.lanzous.com/is42xm0rxtg)
 - [《重构改善既有代码设计》](https://wws.lanzous.com/ivrEWlbbv8h)
 - [《代码整洁之道》](https://wws.lanzous.com/iaO5Bkw13ub)
 
@@ -163,7 +172,7 @@
 
   清华大学计算机系课程。受浙江大学影响开源的课程，包括大一到大四的近百门课程，计算机课程为主。
   
-- 线性代数
+- 国外线性代数课本
 
   清华线代教材，线性代数学习的新方法，评分极高。
 
