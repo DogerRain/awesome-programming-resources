@@ -53,7 +53,7 @@
 
 ### Java相关电子书
 
-- [《Head First Java 》](https://wws.lanzous.com/i3SuHlbc16b)
+- [《Head First Java 》](https://wws.lanzoux.com/i3SuHlbc16b)
 - [《深入浅出Java多线程》](http://concurrent.redspider.group/RedSpider.html) RedSpider技术社区编写
 - [《Spring 的官方文档》](https://spring.io/projects/spring-framework#learn)
 - [《Spring Boot 的官方文档》](https://spring.io/projects/spring-boot#learn)
@@ -64,14 +64,14 @@
 
 ### MySQL
 
-- [《高性能 MySQL》](https://wws.lanzous.com/iLznWkw1egd)
+- [《高性能 MySQL》](https://wws.lanzoux.com/iLznWkw1egd)
 
 ### 计算机网络
 
-- [《 计算机网络-自顶向下方法(中文第六版)》](https://wws.lanzous.com/iN5G4kw1q0j)
-- [《 图解TCP IP第5版》](https://wws.lanzous.com/i9F5jkw1ukd)
-- [《 图解 HTTP》](https://wws.lanzous.com/iKEobkw1syf)
-- [《HTTP 权威指南》](https://wws.lanzous.com/iuaJRlbc93g)
+- [《 计算机网络-自顶向下方法(中文第六版)》](https://wws.lanzoux.com/iN5G4kw1q0j)
+- [《 图解TCP IP第5版》](https://wws.lanzoux.com/i9F5jkw1ukd)
+- [《 图解 HTTP》](https://wws.lanzoux.com/iKEobkw1syf)
+- [《HTTP 权威指南》](https://wws.lanzoux.com/iuaJRlbc93g)
 
 ### Linux
 
@@ -80,8 +80,8 @@
 
 ### Redis
 
-- [《Redis设计与实现》](https://wws.lanzous.com/iwWDpkw0y7i)
-- [《Redis 实战》](https://wws.lanzous.com/izQXDkw0v7a)
+- [《Redis设计与实现》](https://wws.lanzoux.com/iwWDpkw0y7i)
+- [《Redis 实战》](https://wws.lanzoux.com/izQXDkw0v7a)
 
 ### Docker
 
@@ -102,19 +102,19 @@
 
 ### 设计模式
 
-- [《Head First 设计模式》](https://wws.lanzous.com/iRG49lbc3yb)
+- [《Head First 设计模式》](https://wws.lanzoux.com/iRG49lbc3yb)
 
 ### 代码以外
 
-- [硅谷之谜《浪潮之巅》](https://wws.lanzous.com/io5Ipkw1jyb)
-- [《人月神话》](https://wws.lanzous.com/igl0ckw1uqj)
-- [《软技能-代码之外的生存指南》](https://wws.lanzous.com/igm9okw1r2h)
+- [硅谷之谜《浪潮之巅》](https://wws.lanzoux.com/io5Ipkw1jyb)
+- [《人月神话》](https://wws.lanzoux.com/igl0ckw1uqj)
+- [《软技能-代码之外的生存指南》](https://wws.lanzoux.com/igm9okw1r2h)
 
 ### 代码规范
 
-- [《阿里巴巴Java开发手册》(泰山版)](https://wws.lanzous.com/is42xm0rxtg)
-- [《重构改善既有代码设计》](https://wws.lanzous.com/ivrEWlbbv8h)
-- [《代码整洁之道》](https://wws.lanzous.com/iaO5Bkw13ub)
+- [《阿里巴巴Java开发手册》(泰山版)](https://wws.lanzoux.com/is42xm0rxtg)
+- [《重构改善既有代码设计》](https://wws.lanzoux.com/ivrEWlbbv8h)
+- [《代码整洁之道》](https://wws.lanzoux.com/iaO5Bkw13ub)
 
 ### 其他书籍汇总：
 
