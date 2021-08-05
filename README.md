@@ -87,9 +87,9 @@
 
 - [https://docker-curriculum.com/](https://docker-curriculum.com/)
 - [《Docker — 从入门到实践》](https://yeasy.gitbook.io/docker_practice/)
-- [《Kubernetes中文文档》](https://www.kubernetes.org.cn/docs)
+- [《Kubernetes文档》](https://kubernetes.io/zh/docs/home/) 
 
-### Git && Github
+### Git & Github
 
 - [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600/)廖大yyds，最受欢迎的git使用教程之一
 - [learnGitBranching](https://github.com/pcottle/learnGitBranching)通过可视化动画效果来帮助开发人员理解Git命令
