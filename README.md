@@ -88,6 +88,7 @@
 - [https://docker-curriculum.com/](https://docker-curriculum.com/)
 - [《Docker — 从入门到实践》](https://yeasy.gitbook.io/docker_practice/)
 - [《Kubernetes文档》](https://kubernetes.io/zh/docs/home/) 
+- [K8s中文社区](https://www.kubernetes.org.cn/)
 
 ### Git & Github
 
