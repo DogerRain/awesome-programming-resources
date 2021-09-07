@@ -99,8 +99,8 @@
 ### Git & Github
 
 - [Git教程-廖雪峰](https://www.liaoxuefeng.com/wiki/896043488029600/)廖大yyds，最受欢迎的git使用教程之一
-- [learnGitBranching](https://github.com/pcottle/learnGitBranching)通过可视化动画效果来帮助开发人员理解Git命令
-- [《Git 官方文档教程》](https://git-scm.com/book/zh/v2)
+- [learnGitBranching](https://github.com/pcottle/learnGitBranching) 通过可视化动画效果来帮助开发人员理解Git命令
+- [《Git 官方文档教程》](https://git-scm.com/book/zh/v2) 简单明了的官方权威教程
 - [《Pro Git》](https://www.progit.cn/)
 - [github漫游指南](https://github.com/phodal/github)github的使用教程
 
