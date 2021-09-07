@@ -61,6 +61,7 @@
 ### Python
 
 - [《利用Python进行数据分析 2017 第二版》](https://github.com/BrambleXu/pydata-notebook)
+- [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)  100k star 的 python快速教程
 
 ### MySQL
 
@@ -76,7 +77,12 @@
 ### Linux
 
 - [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
+
 - [Linux命令搜索](https://wangchujiang.com/linux-command/)
+
+- [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html#) 一个快速上手Linux的教程，适合小白
+
+  
 
 ### Redis
 
