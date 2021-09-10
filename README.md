@@ -62,6 +62,7 @@
 
 - [《利用Python进行数据分析 2017 第二版》](https://github.com/BrambleXu/pydata-notebook)
 - [Python - 100天从新手到大师](https://github.com/jackfrued/Python-100-Days)  100k star 的 python快速教程
+- [python官方教程](https://docs.python.org/3/)
 
 ### MySQL
 
