@@ -12,13 +12,13 @@
 
 
 
-## 前后端学习路线
+## ✨前后端学习路线
 
 - [143k star 的编程指南](https://github.com/kamranahmedse/developer-roadmap)
 
   国外超级火的成为web开发人员的路线图
 
-## Java学习教程
+## 👀Java学习教程
 
 - [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
@@ -30,19 +30,19 @@
 - [SpringAll](https://github.com/wuyouzhuguli/SpringAll) 循序渐进，各种springboot的使用示例
 
 
-## Java学习视频
+## 🚀Java学习视频
 
-- 
+- TODO
 
-## Java面试题
+## 👨‍💻Java面试题
 
 - [LearnJavaToFindAJob](https://github.com/DogerRain/LearnJavaToFindAJob)  互联网最喜欢问的面试题总结（Java八股文+算法+操作系统+计算机网络+项目+高并发+MySQL+中间件 等等）
 
-## MySQL
+## ▶️MySQL
 
-- 
+- TODO
 
-## 前端
+## 🤝前端
 
 ### 前端学习
 
@@ -52,7 +52,7 @@
 
 - [ECMAScript 6 入门](https://es6.ruanyifeng.com/)
 
-## 电子书  || 教程
+## 📚电子书  || 教程
 
 ### Java相关电子书
 
@@ -134,7 +134,7 @@
 
 - https://github.com/itwanger/JavaBooks
 
-## 算法
+## 🛅算法
 
 - [力扣加加](https://github.com/azl397985856/leetcode)
 
@@ -162,23 +162,23 @@
 
 
 
-## 计算机科学
+## 🎡计算机科学
 
 - [computer-science](https://github.com/ossu/computer-science)
 
   通往计算机科学免费自学教育之路，全英文，为计算机科学专业本科生的学位要求设计。
 
-## 深度学习
+## 💫深度学习
 
 - [introtodeeplearning](https://github.com/aamini/introtodeeplearning)
 
   麻省理工学院深度学习课程
 
-## 大数据
+## 🔥大数据
 
 - [大数据成神之路](https://github.com/wangzhiwubigdata/God-Of-BigData)
 
-## 大学生课程（计算机课程为主）
+## 💎大学生课程（计算机课程为主）
 
 - [zju-icicles](https://github.com/QSCTech/zju-icicles)
 
@@ -196,7 +196,7 @@
 
   原版：https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/index.htm
 
-## 求职 
+## ⚒️求职 
 
 - [AwesomeJob](https://github.com/Dikea/AwesomeJob)
 
@@ -210,7 +210,7 @@
 
 ---
 
-## 服务器薅羊毛
+## ⭐️服务器薅羊毛
 
 - 收集一些最便宜的服务器购买链接
 
