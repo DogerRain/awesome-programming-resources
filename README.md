@@ -14,15 +14,21 @@
 
 ## ✨前后端学习路线
 
-- [143k star 的编程指南](https://github.com/kamranahmedse/developer-roadmap)
-
-  国外超级火的成为web开发人员的路线图
+- [143k star 的编程指南](https://github.com/kamranahmedse/developer-roadmap) 国外超级火的成为web开发人员的路线图
 
 ## 👀Java学习教程
 
 - [秒杀系统设计与实现](https://github.com/qiurunze123/miaosha)
 - [后端架构师技术图谱](https://github.com/xingshaocheng/architect-awesome)
 -  [PureJavaCoderRoad](https://github.com/DogerRain/PureJavaCoderRoad)  Java小白学些什么才能找到一份实习工作？
+
+### 源码
+
+- [JavaSourceCodeLearning](https://github.com/coderbruis/JavaSourceCodeLearning) 包含 Spring 源码、SpringBoot 源码、SpringAOP 源码、SpringSecurity 源码、SpringSecurity OAuth2 源码、JDK 源码、Dubbo 源码
+
+## 设计模式
+
+- [ Refactoring.Guru](https://refactoringguru.cn) 免费在线学习代码重构、 设计模式、 SOLID 原则
 
 ### SpringBoot教程
 
@@ -85,6 +91,8 @@
 - [Linux命令搜索](https://wangchujiang.com/linux-command/)
 
 - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html#) 一个快速上手Linux的教程，适合小白
+
+- [《鸟哥的Linux私房菜》](http://cn.linux.vbird.org/)
 
   
 
