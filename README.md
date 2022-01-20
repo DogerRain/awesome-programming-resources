@@ -87,14 +87,13 @@
 ### Linux
 
 - [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
-
 - [Linux命令搜索](https://wangchujiang.com/linux-command/)
-
 - [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html#) 一个快速上手Linux的教程，适合小白
-
 - [《鸟哥的Linux私房菜》](http://cn.linux.vbird.org/)
 
-  
+### Rust
+
+- [《Rust程序设计语言》](https://kaisery.github.io/trpl-zh-cn/) 既能学rust又能学操作系统、编程规范
 
 ### Redis
 
