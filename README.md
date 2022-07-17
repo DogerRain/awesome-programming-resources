@@ -1,26 +1,18 @@
+本项目同步更新到：[https://learnjava.baimuxym.cn/pages/awesome-programming-resources](https://learnjava.baimuxym.cn/pages/awesome-programming-resources)
 
 ---
-title: README
-date: 2022-06-08 15:57:08
-lock: false
-permalink: /pages/README
-categories:
-  - 工具
-  - awesome-programming-resources
-tags:
-  - README
----
-[toc]
+
+
 
 # awesome-programming-resources
 
 收集优秀的编程资源，Java为主。
 
-涵盖：Java求职面试、书籍、计算机网络、操作系统、架构、算法、前端开发、 Redis、Mysql、Nginx、ZK、MQ、深度学习等。
+涵盖：**Java求职面试、书籍、计算机网络、操作系统、架构、算法、前端开发、 Redis、Mysql、Nginx、ZK、MQ、深度学习等。**
 
 如果有推荐的教程或者资源，欢迎补充。
 
-随着时间的推移，知识点、链接难免有出入和错误，欢迎各位提[Issues](https://github.com/DogerRain/awesome-programming-resources/issues)
+随着时间的推移，知识点、链接难免有出入和错误，可以与我联系。
 
 
 
