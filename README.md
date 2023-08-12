@@ -234,6 +234,6 @@
 | 阿里云 |                                                              | [精选云服务器1核2G 新人仅需87元/年](https://www.aliyun.com/minisite/goods?userCode=4lol8et7) |
 | 百度云 | [1核2G 学生身份 9 元/1个月](https://cloud.baidu.com/campaign/campus-2018/index.html?unifrom=eventpage) |                                                              |
 | 华为云 |                                                              | [精选云服务器2折起](https://activity.huaweicloud.com/cps/recommendstore.html?fromacct=0740541e-dec2-47db-99e9-b5bb524ccbf7&utm_source=aGlkX2txbGYyNDR0ZXlxc2ZwZg===&utm_medium=cps&utm_campaign=201905) |
-| 七牛云 |                                                              | [对象存储服务每月10GB免费空间](https://activity.huaweicloud.com/cps/recommendstore.html?fromacct=0740541e-dec2-47db-99e9-b5bb524ccbf7&utm_source=aGlkX2txbGYyNDR0ZXlxc2ZwZg===&utm_medium=cps&utm_campaign=201905) (用做云存储) |
+| 七牛云 |                                                              | [对象存储服务每月10GB免费空间](https://s.qiniu.com/MZJria) (用做云存储) |
 | 青云   |                                                              | [https://www.qingcloud.com](https://www.qingcloud.com)       |
 
