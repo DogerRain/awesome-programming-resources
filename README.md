@@ -131,7 +131,9 @@
 
 ### 代码以外
 
-- [硅谷之谜《浪潮之巅》](https://wws.lanzoux.com/io5Ipkw1jyb)
+- [《浪潮之巅》](https://wwvv.lanzout.com/i7HnF157ac5g)
+- [《数学之美》](https://wwvv.lanzout.com/inuO7157ac2d)
+- [《硅谷之谜》浪潮之巅续集](https://wws.lanzoux.com/io5Ipkw1jyb)
 - [《人月神话》](https://wws.lanzoux.com/igl0ckw1uqj)
 - [《软技能-代码之外的生存指南》](https://wws.lanzoux.com/igm9okw1r2h)
 
