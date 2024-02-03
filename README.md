@@ -227,15 +227,12 @@
 
 - 收集一些最便宜的服务器购买链接
 
-
 | 云厂商 | 学生优惠                                                     | 新人优惠                                                     |
 | ------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 腾讯云 | [学生特惠，1核2G5M宽带，仅需9元/1个月](https://cloud.tencent.com/act/cps/redirect?redirect=10004&cps_key=664b44b4e8e43b579d07036bf1c71060) | [星星海SA2云服务器，1核2G首年99元](https://cloud.tencent.com/act/cps/redirect?redirect=1063&cps_key=664b44b4e8e43b579d07036bf1c71060&from=console)（我目前用的） |
-|        |                                                              | [新客户无门槛代金券，价值高达2860元代金券](https://cloud.tencent.com/act/cps/redirect?redirect=1040&cps_key=664b44b4e8e43b579d07036bf1c71060&from=console) |
-|        |                                                              | [云产品限时秒杀，爆款1核2G云服务器，首年99元](https://cloud.tencent.com/act/cps/redirect?redirect=1062&cps_key=664b44b4e8e43b579d07036bf1c71060&from=console) |
-| 阿里云 |                                                              | [精选云服务器1核2G 新人仅需87元/年](https://www.aliyun.com/minisite/goods?userCode=4lol8et7) |
+| 腾讯云 | [学生特惠，1核2G5M宽带，仅需9元/1个月](https://cloud.tencent.com/act/cps/redirect?redirect=10004&cps_key=664b44b4e8e43b579d07036bf1c71060) | [轻量应用服务器，2核2G 62元/年](https://curl.qcloud.com/5epN0eWH)（我目前用的首单白嫖版） |
+|        |                                                              | [Lighthouse轻量级服务器，1核2G首年99元](https://curl.qcloud.com/EVm6XXul)（我目前用的续费版） |
+| 阿里云 | [学生免费领](https://developer.aliyun.com/plan/student?source=5176.11533457&userCode=4lol8et7) | [轻量级云服务器2核2G 99元/年](https://www.aliyun.com/lowcode/promotion/allinaliyun/99program?source=5176.11533457&userCode=4lol8et7)（和腾讯云有点像） |
 | 百度云 | [1核2G 学生身份 9 元/1个月](https://cloud.baidu.com/campaign/campus-2018/index.html?unifrom=eventpage) |                                                              |
 | 华为云 |                                                              | [精选云服务器2折起](https://activity.huaweicloud.com/cps/recommendstore.html?fromacct=0740541e-dec2-47db-99e9-b5bb524ccbf7&utm_source=aGlkX2txbGYyNDR0ZXlxc2ZwZg===&utm_medium=cps&utm_campaign=201905) |
-| 七牛云 |                                                              | [对象存储服务每月10GB免费空间](https://s.qiniu.com/MZJria) (用做云存储) |
+| 七牛云 |                                                              | [对象存储服务每月10GB免费空间](https://activity.huaweicloud.com/cps/recommendstore.html?fromacct=0740541e-dec2-47db-99e9-b5bb524ccbf7&utm_source=aGlkX2txbGYyNDR0ZXlxc2ZwZg===&utm_medium=cps&utm_campaign=201905) (用做云存储) |
 | 青云   |                                                              | [https://www.qingcloud.com](https://www.qingcloud.com)       |
-
